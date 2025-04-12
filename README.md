@@ -126,3 +126,4 @@
   </footer>
 </body>
 </html>
+<img src="nabil.jpg" alt="My Photo">
